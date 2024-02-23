@@ -2,7 +2,7 @@
 
 La lune est l'unique satellitte naturel permanent de la planète Terre. Il s'agit du cinquième plus grand satellite naturel du système solaire, et du plus grand des satellites planétaires par rapport à la taille de la planète autour de laquelle il orbite.
 
-![Icone de la lune](lune.jpg)
+![Icone de la lune](Lune.jpg)
 
 ## Caractéristiques
 
