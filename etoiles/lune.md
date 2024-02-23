@@ -4,6 +4,8 @@ La lune est l'unique satellitte naturel permanent de la planète Terre. Il s'agi
 
 ![Icone de la lune](Lune.jpg)
 
+Icone récuperer dans [Google Wikipédia](https://fr.wikipedia.org/wiki/Voyager_1)
+
 ## Caractéristiques
 
 - Masse : 7.347 7 x 10<sup>22</sup> kg
